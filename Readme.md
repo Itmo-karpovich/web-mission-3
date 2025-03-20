@@ -2,7 +2,7 @@
 
 ## Part 0
 
-[Link to video](https://www.youtube.com/watch?v=UUhavvMO2FQ)
+[Link to video](https://jmp.sh/s/AXX8oBheZ8mjlDg13Spe)
 
 ## Part1
 
@@ -35,3 +35,4 @@ git add images/.gitkeep
 git commit -m "Add empty images directory"
 git push
 Теперь папка images будет отслеживаться Git.
+

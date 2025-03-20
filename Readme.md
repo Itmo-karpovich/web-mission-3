@@ -2,7 +2,7 @@
 
 ## Part 0
 
-[Link to video](https://jmp.sh/s/AXX8oBheZ8mjlDg13Spe)
+[Link to video](https://jmp.sh/VfQ2wopP)
 
 ## Part1
 
